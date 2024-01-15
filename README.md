@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 📫 How to reach me **Add me on my discord y1k0**
+- 📫 How to reach me **Add me on my discord y1k0_**
 
 - ⚡ Fun fact **I am 13 years old and I like to create tools to sell or publish them.**
 
